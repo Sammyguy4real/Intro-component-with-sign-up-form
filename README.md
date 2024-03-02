@@ -34,9 +34,13 @@ Users should be able to:
 
 ![](./Design/my-design.png)
 
+### Mobile
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+### Links
+
+- Challenge URL: [Challenge URL](https://your-solution-url.com)
+- Live Site URL: [Solution URL](https://sign-up-form-rho-sable.vercel.app/)
 
 ## My process
 
@@ -49,7 +53,6 @@ Users should be able to:
 - Mobile-first workflow
 - [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
