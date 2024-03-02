@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-- Challenge URL: [Challenge URL](https://your-solution-url.com)
+- Challenge URL: [Challenge URL](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1/hub)
 - Live Site URL: [Solution URL](https://sign-up-form-rho-sable.vercel.app/)
 
 ## My process
@@ -49,9 +49,8 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
+- 
 
 
 ### What I learned
@@ -86,7 +85,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Javascript Validation](https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/) - This helped me with the Javascriplt validation reason. It so straightforward to use and I look forward to lerning more about cient-side validation.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
